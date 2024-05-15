@@ -3,7 +3,7 @@
 ### Hello there, Its Aakash here!
 
 💻 Software Engineer sharing different projects I have built. <br>
-💻 My projects are usually based on a particular concept or a particular business use. <br>
+💻 My projects are usually based on a particular concept or a particular business use case. <br>
 💻 I'm a full stack software engineer with expertise in MERN Stack. React🔥<br>
 
 
